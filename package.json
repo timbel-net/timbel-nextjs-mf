@@ -1,0 +1,13 @@
+{
+  "name": "@timbel-net/nextjs-mf",
+  "version": "0.0.1",
+  "license": "MIT",
+  "dependencies": {
+    "@module-federation/nextjs-mf": "0.0.0-next-20240415222600",
+    "feather-route-matcher": "4.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.79",
+    "typescript": "5.4.4"
+  }
+}
